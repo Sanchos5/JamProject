@@ -4,16 +4,17 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Character.h"
+#include "Components/CapsuleComponent.h"
 #include "GameFramework/SpringArmComponent.h"
 #include "Camera/CameraComponent.h"
-
-
+#include "Components/HealthComponent.h"
 
 #include "PlayerCharacter.generated.h"
 
 class USpringArmComponent;
 class UCameraComponent;
 class USkeletalMeshComponent;
+class UHealthComponent;
 
 struct FInputActionValue;
 class UInputMappingContext;
@@ -46,12 +47,24 @@ protected:
 	UPROPERTY(VisibleAnywhere)
 	UCameraComponent* Camera;
 
+	UPROPERTY(EditAnywhere)
+	UHealthComponent* HealthComponent;
+
+	virtual void OnDeath(float KillingDamage, FDamageEvent const& DamageEvent, APawn* PawnInstigator, AActor* DamageCauser);
+
 public:	
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
 	// Called to bind functionality to input
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
+
+	/** Event for taking damage. Overridden from APawn.*/
+	//UFUNCTION(BlueprintCallable, Category = "Health")
+	virtual float TakeDamage(float DamageTaken, struct FDamageEvent const& DamageEvent, AController* EventInstigator, AActor* DamageCauser) override;
+
+	UPROPERTY(BlueprintReadOnly)
+	bool bIsDying = false;
 
 private:
 
