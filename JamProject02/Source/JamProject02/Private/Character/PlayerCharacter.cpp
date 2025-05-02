@@ -4,11 +4,25 @@
 #include "Character/PlayerCharacter.h"
 
 // Sets default values
-APlayerCharacter::APlayerCharacter()
+APlayerCharacter::APlayerCharacter(const class FObjectInitializer& ObjectInitializer)
 {
  	// Set this character to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
-	PrimaryActorTick.bCanEverTick = true;
+	PrimaryActorTick.bCanEverTick = false;
 
+	USkeletalMeshComponent* MeshComponent = GetMesh();
+	MeshComponent->SetupAttachment(GetRootComponent());
+
+	CameraBoom = CreateDefaultSubobject<USpringArmComponent>("CameraBoom");
+	CameraBoom->SetupAttachment(MeshComponent);
+	CameraBoom->bUsePawnControlRotation = true;
+	CameraBoom->bInheritYaw = false;
+	CameraBoom->TargetArmLength = 300.f;
+	CameraBoom->TargetOffset = FVector(0.0f, 0.0f, 500.0f);
+
+	Camera = CreateDefaultSubobject<UCameraComponent>("Camera");
+	Camera->SetupAttachment(CameraBoom);
+	Camera->bUsePawnControlRotation = false;
+	Camera->SetRelativeRotation({ -60.0f, 0.0f, 0.0f });
 }
 
 // Called when the game starts or when spawned

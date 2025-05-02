@@ -4,7 +4,14 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Character.h"
+#include "GameFramework/SpringArmComponent.h"
+#include "Camera/CameraComponent.h"
+
 #include "PlayerCharacter.generated.h"
+
+class USpringArmComponent;
+class UCameraComponent;
+class USkeletalMeshComponent;
 
 UCLASS()
 class JAMPROJECT02_API APlayerCharacter : public ACharacter
@@ -13,11 +20,20 @@ class JAMPROJECT02_API APlayerCharacter : public ACharacter
 
 public:
 	// Sets default values for this character's properties
-	APlayerCharacter();
+	APlayerCharacter(const class FObjectInitializer& ObjectInitializer);
+
+	/** Returns ThirdPersonCameraComponent subobject **/
+	UCameraComponent* GetTPCComponent() const { return Camera; }
 
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
+
+	UPROPERTY(VisibleAnywhere)
+	USpringArmComponent* CameraBoom;
+
+	UPROPERTY(VisibleAnywhere)
+	UCameraComponent* Camera;
 
 public:	
 	// Called every frame
