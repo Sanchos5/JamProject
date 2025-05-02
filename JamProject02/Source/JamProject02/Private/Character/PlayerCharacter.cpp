@@ -25,6 +25,8 @@ APlayerCharacter::APlayerCharacter(const class FObjectInitializer& ObjectInitial
 	Camera->SetupAttachment(CameraBoom);
 	Camera->bUsePawnControlRotation = false;
 	Camera->SetRelativeRotation({ -60.0f, 0.0f, 0.0f });
+
+	HealthComponent = CreateDefaultSubobject<UHealthComponent>("HealthComponent");
 }
 
 // Called when the game starts or when spawned
@@ -77,4 +79,35 @@ void APlayerCharacter::Input_Move(const FInputActionValue& InputActionValue)
 			AddMovementInput(MovementDirection, MoveValue.Y);
 		}
 	}
+}
+
+float APlayerCharacter::TakeDamage(float DamageTaken, FDamageEvent const& DamageEvent, AController* EventInstigator, AActor* DamageCauser)
+{
+	if(DamageTaken > 0.f)
+	{
+		HealthComponent->PawnTakesDamage(DamageTaken);
+
+		if(HealthComponent->Health <= 0.f)
+		{
+			OnDeath(DamageTaken, DamageEvent, EventInstigator ? EventInstigator->GetPawn() : NULL, DamageCauser);
+		}
+	}
+	return DamageTaken;
+}
+
+void APlayerCharacter::OnDeath(float KillingDamage, FDamageEvent const& DamageEvent, APawn* PawnInstigator, AActor* DamageCauser)
+{
+
+	/* Disable all collision on capsule */
+	UCapsuleComponent* CapsuleComp = GetCapsuleComponent();
+	CapsuleComp->SetCollisionEnabled(ECollisionEnabled::NoCollision);
+	CapsuleComp->SetCollisionResponseToAllChannels(ECR_Ignore);
+
+	USkeletalMeshComponent* Mesh1P = GetMesh();
+	Mesh1P->SetCollisionEnabled(ECollisionEnabled::QueryAndPhysics);
+	Mesh1P->SetSimulatePhysics(true);
+	Mesh1P->SetAllBodiesSimulatePhysics(true);
+
+	DisableInput(nullptr);
+	bIsDying = true;
 }
