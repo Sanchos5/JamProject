@@ -7,11 +7,17 @@
 #include "GameFramework/SpringArmComponent.h"
 #include "Camera/CameraComponent.h"
 
+
+
 #include "PlayerCharacter.generated.h"
 
 class USpringArmComponent;
 class UCameraComponent;
 class USkeletalMeshComponent;
+
+struct FInputActionValue;
+class UInputMappingContext;
+class UInputAction;
 
 UCLASS()
 class JAMPROJECT02_API APlayerCharacter : public ACharacter
@@ -24,6 +30,11 @@ public:
 
 	/** Returns ThirdPersonCameraComponent subobject **/
 	UCameraComponent* GetTPCComponent() const { return Camera; }
+
+	UPROPERTY(EditDefaultsOnly, BlueprintReadOnly, Category = "Defaults | Input")
+	UInputAction* Move_Action;
+
+	void Input_Move(const FInputActionValue& InputActionValue);
 
 protected:
 	// Called when the game starts or when spawned
@@ -41,5 +52,10 @@ public:
 
 	// Called to bind functionality to input
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
+
+private:
+
+	UPROPERTY(EditDefaultsOnly, Category = "Defaults | Input")
+	UInputMappingContext* InputMappingContext;
 
 };

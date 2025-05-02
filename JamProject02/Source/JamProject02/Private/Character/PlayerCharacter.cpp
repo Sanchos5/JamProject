@@ -2,6 +2,8 @@
 
 
 #include "Character/PlayerCharacter.h"
+#include "EnhancedInputSubsystems.h"
+#include "EnhancedInputComponent.h"
 
 // Sets default values
 APlayerCharacter::APlayerCharacter(const class FObjectInitializer& ObjectInitializer)
@@ -30,6 +32,13 @@ void APlayerCharacter::BeginPlay()
 {
 	Super::BeginPlay();
 	
+	if (APlayerController* PC = Cast<APlayerController>(Controller))
+	{
+		if (UEnhancedInputLocalPlayerSubsystem* Subsystem = ULocalPlayer::GetSubsystem<UEnhancedInputLocalPlayerSubsystem>(PC->GetLocalPlayer()))
+		{
+			Subsystem->AddMappingContext(InputMappingContext, 0);
+		}
+	}
 }
 
 // Called every frame
@@ -44,5 +53,28 @@ void APlayerCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputCom
 {
 	Super::SetupPlayerInputComponent(PlayerInputComponent);
 
+	UEnhancedInputComponent* Input = Cast<UEnhancedInputComponent>(PlayerInputComponent);
+
+	Input->BindAction(Move_Action, ETriggerEvent::Triggered, this, &APlayerCharacter::Input_Move);
 }
 
+void APlayerCharacter::Input_Move(const FInputActionValue& InputActionValue)
+{
+	if (Controller != nullptr)
+	{
+		const FVector2D MoveValue = InputActionValue.Get<FVector2D>();
+		const FRotator MovementRotation(0.0f, Controller->GetControlRotation().Yaw, 0.0f);
+
+		if (MoveValue.X != 0.0f)
+		{
+			const FVector MovementDirection = MovementRotation.RotateVector(FVector::RightVector);
+			AddMovementInput(MovementDirection, MoveValue.X);
+		}
+
+		if (MoveValue.Y != 0.0f)
+		{
+			const FVector MovementDirection = MovementRotation.RotateVector(FVector::ForwardVector);
+			AddMovementInput(MovementDirection, MoveValue.Y);
+		}
+	}
+}
