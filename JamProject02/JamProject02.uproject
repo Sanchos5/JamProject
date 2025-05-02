@@ -63,10 +63,6 @@
 				"IOS",
 				"TVOS"
 			]
-		},
-		{
-			"Name": "Landmass",
-			"Enabled": true
 		}
 	]
 }
