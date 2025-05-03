@@ -16,7 +16,7 @@ public:
 	// Sets default values for this component's properties
 	UHealthComponent();
 
-	UFUNCTION(BlueprintPure, Category = "Energy")
+	UFUNCTION(BlueprintPure, Category = "Health")
 	static UHealthComponent* FindHealthComponent(const AActor* Actor) { return (Actor ? Actor->FindComponentByClass<UHealthComponent>() : nullptr); }
 
 	UPROPERTY(EditDefaultsOnly, Category = "Defaults|Health")
@@ -27,6 +27,10 @@ public:
 
 	UFUNCTION(BlueprintCallable)
 	float GetHealth() const { return Health; }
+
+	/** Setter for Current Health. Clamps the value between 0 and MaxHealth and calls OnHealthUpdate. Should only be called on the server.*/
+	UFUNCTION(BlueprintCallable, Category = "Health")
+	void SetHealth(float healthValue);
 
 protected:
 	// Called when the game starts

@@ -4,7 +4,7 @@
 #include "Enemy/BaseEnemyCharacter.h"
 
 // Sets default values
-ABaseEnemyCharacter::ABaseEnemyCharacter()
+ABaseEnemyCharacter::ABaseEnemyCharacter(const class FObjectInitializer& ObjectInitializer)
 {
  	// Set this character to call Tick() every frame.  You can turn this off to improve performance if you don't need it.
 	PrimaryActorTick.bCanEverTick = false;
@@ -21,15 +21,15 @@ float ABaseEnemyCharacter::TakeDamage(float DamageTaken, FDamageEvent const& Dam
 	{
 		HealthComponent->PawnTakesDamage(DamageTaken);
 
-		if (HealthComponent->Health <= 0.f)
+		if (HealthComponent->GetHealth() <= 0.f)
 		{
-			OnDeath(DamageTaken, DamageEvent, EventInstigator ? EventInstigator->GetPawn() : NULL, DamageCauser);
+			OnDeath();
 		}
 	}
 	return DamageTaken;
 }
 
-void ABaseEnemyCharacter::OnDeath(float KillingDamage, FDamageEvent const& DamageEvent, APawn* PawnInstigator, AActor* DamageCauser)
+void ABaseEnemyCharacter::OnDeath()
 {
 	/* Disable all collision on capsule */
 	UCapsuleComponent* CapsuleComp = GetCapsuleComponent();

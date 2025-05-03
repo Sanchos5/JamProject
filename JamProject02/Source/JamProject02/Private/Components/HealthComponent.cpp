@@ -15,7 +15,6 @@ UHealthComponent::UHealthComponent()
 	// ...
 }
 
-
 // Called when the game starts
 void UHealthComponent::BeginPlay()
 {
@@ -34,16 +33,17 @@ void UHealthComponent::TickComponent(float DeltaTime, ELevelTick TickType, FActo
 	// ...
 }
 
+void UHealthComponent::SetHealth(float healthValue)
+{
+	Health = FMath::Clamp(healthValue, 0.f, healthValue);
+}
+
 float UHealthComponent::PawnTakesDamage(float Damage)
 {
 	if(Damage > 0.f)
 	{
-		Health -= Damage;
-
-		if(Health <= 0.f)
-		{
-			Health = 0.f;
-		}
+		float damageApplied = GetHealth() - Damage;
+		SetHealth(damageApplied);
 	}
 
 	return Damage;

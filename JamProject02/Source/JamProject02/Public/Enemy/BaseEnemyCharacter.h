@@ -17,12 +17,12 @@ class JAMPROJECT02_API ABaseEnemyCharacter : public ACharacter
 
 public:
 	// Sets default values for this character's properties
-	ABaseEnemyCharacter();
+	ABaseEnemyCharacter(const class FObjectInitializer& ObjectInitializer);
 
 	UPROPERTY(EditAnywhere)
 	UHealthComponent* HealthComponent;
 
-	virtual void OnDeath(float KillingDamage, FDamageEvent const& DamageEvent, APawn* PawnInstigator, AActor* DamageCauser);
+	virtual void OnDeath();
 
 	virtual float TakeDamage(float DamageTaken, struct FDamageEvent const& DamageEvent, AController* EventInstigator, AActor* DamageCauser) override;
 
