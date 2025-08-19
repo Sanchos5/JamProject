@@ -323,202 +323,197 @@
 "../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 322
 "../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 323
 "../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 324
-"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 325
-"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 326
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 327
-"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 328
-"../../../Engine/Content/Tutorial/Installation/InstallingVisualStudioTutorial.uasset" 329
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 330
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 331
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 332
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 333
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 334
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 335
-"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 336
-"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 337
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 338
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 339
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 340
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 341
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 342
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 343
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 344
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 345
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraBooleanLogicOps.uasset" 346
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 347
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uasset" 348
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraOrientationAxis.uasset" 349
-"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 350
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 351
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 352
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 353
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 354
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 355
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 356
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 357
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 358
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 359
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 360
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 361
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 362
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 363
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 364
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 365
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Maps/Level-SpecificBlueprints/BP_Deathzone.uasset" 366
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/ThirdPersonBP/Blueprints/EndTrigger/BP_End2.uasset" 367
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Maps/Hell01_Demo_sharedassets/Grass_Uncut_LayerInfo2.uasset" 368
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Maps/Hell01_Demo_sharedassets/Ground_Gravel_LayerInfo2.uasset" 369
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Maps/Hell01_Demo_sharedassets/SnowFootprints_LayerInfo.uasset" 370
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Maps/Hell01_Demo_sharedassets/Soil_Mud_LayerInfo1.uasset" 371
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Maps/Level_Main_BuiltData.uasset" 372
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/UI/Icon/446.uasset" 373
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/UI/Icon/446_Mat.uasset" 374
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Bark03_BC.uasset" 375
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Bark03_HRM.uasset" 376
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Bark03_Norm.uasset" 377
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/M_Bark03.uasset" 378
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/MI_Bark03.uasset" 379
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Clouds.uasset" 380
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_HellSigil01_BC.uasset" 381
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_HellSigil01_Emissive.uasset" 382
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/M_Decal_Sign01.uasset" 383
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/MI_Decal_Sign01.uasset" 384
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/M_LavaFlow01.uasset" 385
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/MI_LavaFlow01.uasset" 386
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 387
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_AshesTileable01_Emissive.uasset" 388
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_AshesTileable_BC.uasset" 389
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_AshesTileable_HRM.uasset" 390
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_AshesTileable_Norm.uasset" 391
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_GroundBloody01_BC.uasset" 392
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_GroundBloody01_HRM.uasset" 393
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_GroundBloody01_Norm.uasset" 394
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_GroundPuddles01_BC.uasset" 395
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_GroundPuddles01_HRM.uasset" 396
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_GroundPuddles01_Norm.uasset" 397
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_SnowRock_BC.uasset" 398
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_SnowRock_HRM.uasset" 399
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_SnowRock_Normal.uasset" 400
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/M_MasterLandscape_Winter_Tessellation.uasset" 401
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/MI_MasterLandscape_Winter_Tessellation.uasset" 402
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Material/M_Light.uasset" 403
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Material/M_Light_Inst.uasset" 404
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Material/M_Light_Inst1.uasset" 405
-"../../../Engine/Content/BasicShapes/Cube.uasset" 406
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 407
-"../../../Engine/Content/BasicShapes/Plane.uasset" 408
-"../../../Engine/Content/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.uasset" 409
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 410
-"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 411
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_BoneTileable01_BC.uasset" 412
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_BoneTileable01_HRM.uasset" 413
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_BoneTileable01_Norm.uasset" 414
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Whale01A_BC.uasset" 415
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Whale01A_Emissive.uasset" 416
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Whale01A_HRM.uasset" 417
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Whale01A_Norm.uasset" 418
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/M_Whale01.uasset" 419
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/MI_Whale01.uasset" 420
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_Bridge01.uasset" 421
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_AshesTileable03_Emissive.uasset" 422
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_CaveCliff01_BC.uasset" 423
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_CaveCliff01_HRM.uasset" 424
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_CaveCliff01_Norm.uasset" 425
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Cliff06_Emissive_Mask.uasset" 426
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Cliff06_Mask.uasset" 427
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Cliff06_Norm.uasset" 428
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_RockMica01_BC.uasset" 429
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_RockMica01_HRM.uasset" 430
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_RockMica01_Norm.uasset" 431
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/M_Cliff06_Var2.uasset" 432
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/MI_Cliff06_Var2.uasset" 433
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_Cliff06.uasset" 434
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_LavaFall01.uasset" 435
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Monster03A_BC.uasset" 436
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Monster03A_HRM.uasset" 437
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Monster03A_Norm.uasset" 438
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Monster03B_BC.uasset" 439
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Monster03B_Emissive.uasset" 440
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Monster03B_HRM.uasset" 441
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Monster03B_Norm.uasset" 442
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/M_Monster03.uasset" 443
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/MI_Monster03.uasset" 444
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Nail01_BC.uasset" 445
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Nail01_HRM.uasset" 446
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Nail01_Norm.uasset" 447
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/M_Nail01.uasset" 448
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/MI_Nail01.uasset" 449
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_Monster03_Spike.uasset" 450
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_Monster04.uasset" 451
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Pile_Sculls01_BC.uasset" 452
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Pile_Sculls01_Emissive.uasset" 453
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Pile_Sculls01_HRM.uasset" 454
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Pile_Sculls01_Norm.uasset" 455
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/M_Pile_Sculls01.uasset" 456
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/MI_Pile_Sculls01.uasset" 457
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_Pile_Skulls01.uasset" 458
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_Ruins_03_Block_400x150_01.uasset" 459
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_Ruins_03_Block_400x150_01_Broken_01.uasset" 460
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_Ruins_03_Block_400x150_01_Broken_02.uasset" 461
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_Ruins_03_Block_400x150_02_Vertical.uasset" 462
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_Ruins_03_Block_400x150_02_Vertical_Broken.uasset" 463
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_Ruins_03_Block_Upper.uasset" 464
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_Ruins_03_Block_Upper_Corner01.uasset" 465
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_Ruins_03_FloorTile01.uasset" 466
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_Ruins_03_FloorTile02.uasset" 467
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_Ruins_03_FloorTile03.uasset" 468
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_Ruins_Circle_BorderSection01_Top01.uasset" 469
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_Ruins_Circle_Prefab01.uasset" 470
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_Ruins_Circle_Prefab02.uasset" 471
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_Ruins_Circle_Rubble03.uasset" 472
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_Ruins_Circle_Stairs01.uasset" 473
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_Ruins_Circle_Stairs02_Broken.uasset" 474
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_Ruins_ColumnBase_03.uasset" 475
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_Ruins_ColumnPiece_01.uasset" 476
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_Ruins_ColumnPiece_02.uasset" 477
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_Ruins_Prefab02.uasset" 478
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Statue01_Var1_BC.uasset" 479
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Statue01_Var1_HRM.uasset" 480
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Statue01_Var1_Norm.uasset" 481
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/M_Statue01_Var1.uasset" 482
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/MI_Statue01_Var1.uasset" 483
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_Statue02.uasset" 484
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Statue03A_BC.uasset" 485
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Statue03A_HRM.uasset" 486
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Statue03A_Norm.uasset" 487
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/M_Statue03_Var1.uasset" 488
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/MI_Statue03_Var1.uasset" 489
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_Statue03.uasset" 490
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SimpleGrassWind.uasset" 491
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_TreeHell01_BC.uasset" 492
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_TreeHell01_Emissive.uasset" 493
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_TreeHell01_HRM.uasset" 494
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_TreeHell01_Norm.uasset" 495
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_TreeHell01_WindMask.uasset" 496
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/M_TreeHell01.uasset" 497
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/MI_TreeHell01.uasset" 498
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_TreeHell02.uasset" 499
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_TreeMapleDead.uasset" 500
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Clouds04.uasset" 501
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Water002_N.uasset" 502
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Water03_N.uasset" 503
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/M_Lava01.uasset" 504
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/MI_Lava01.uasset" 505
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_WaterIcePlane01.uasset" 506
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Worm02_BC.uasset" 507
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Worm02_Emissive.uasset" 508
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Worm02_HRM.uasset" 509
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Worm02_Norm.uasset" 510
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/M_Worm02.uasset" 511
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/MI_Worm02.uasset" 512
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/MI_Worm03.uasset" 513
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_Worms_Cluster.uasset" 514
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Maps/Level_Main.umap" 515
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Maps/MapsTestBP_BuiltData.uasset" 516
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Maps/MapsTestBP.umap" 517
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Maps/MainMenu/NewWorld.umap" 518
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Cinematics/Maps/Level_Cinimatics_BuiltData.uasset" 519
-"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 520
-"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Cinematics/Maps/Level_Cinimatics.umap" 521
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 522
-"../../../Engine/Content/Maps/Entry.umap" 523
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 325
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 326
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 327
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 328
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 329
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 330
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 331
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 332
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 333
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 334
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 335
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 336
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 337
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 338
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 339
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 340
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraBooleanLogicOps.uasset" 341
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 342
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uasset" 343
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraOrientationAxis.uasset" 344
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 345
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 346
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 347
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 348
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 349
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 350
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 351
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 352
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 353
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 354
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 355
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 356
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 357
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 358
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 359
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 360
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Maps/Level-SpecificBlueprints/BP_Deathzone.uasset" 361
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/ThirdPersonBP/Blueprints/EndTrigger/BP_End2.uasset" 362
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Maps/Hell01_Demo_sharedassets/Grass_Uncut_LayerInfo2.uasset" 363
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Maps/Hell01_Demo_sharedassets/Ground_Gravel_LayerInfo2.uasset" 364
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Maps/Hell01_Demo_sharedassets/SnowFootprints_LayerInfo.uasset" 365
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Maps/Hell01_Demo_sharedassets/Soil_Mud_LayerInfo1.uasset" 366
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Maps/Level_Main_BuiltData.uasset" 367
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/UI/Icon/446.uasset" 368
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/UI/Icon/446_Mat.uasset" 369
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Bark03_BC.uasset" 370
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Bark03_HRM.uasset" 371
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Bark03_Norm.uasset" 372
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/M_Bark03.uasset" 373
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/MI_Bark03.uasset" 374
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Clouds.uasset" 375
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_HellSigil01_BC.uasset" 376
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_HellSigil01_Emissive.uasset" 377
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/M_Decal_Sign01.uasset" 378
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/MI_Decal_Sign01.uasset" 379
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/M_LavaFlow01.uasset" 380
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/MI_LavaFlow01.uasset" 381
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 382
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_AshesTileable01_Emissive.uasset" 383
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_AshesTileable_BC.uasset" 384
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_AshesTileable_HRM.uasset" 385
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_AshesTileable_Norm.uasset" 386
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_GroundBloody01_BC.uasset" 387
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_GroundBloody01_HRM.uasset" 388
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_GroundBloody01_Norm.uasset" 389
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_GroundPuddles01_BC.uasset" 390
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_GroundPuddles01_HRM.uasset" 391
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_GroundPuddles01_Norm.uasset" 392
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_SnowRock_BC.uasset" 393
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_SnowRock_HRM.uasset" 394
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_SnowRock_Normal.uasset" 395
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/M_MasterLandscape_Winter_Tessellation.uasset" 396
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/MI_MasterLandscape_Winter_Tessellation.uasset" 397
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Material/M_Light.uasset" 398
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Material/M_Light_Inst.uasset" 399
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Material/M_Light_Inst1.uasset" 400
+"../../../Engine/Content/BasicShapes/Cube.uasset" 401
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 402
+"../../../Engine/Content/BasicShapes/Plane.uasset" 403
+"../../../Engine/Content/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.uasset" 404
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 405
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 406
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_BoneTileable01_BC.uasset" 407
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_BoneTileable01_HRM.uasset" 408
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_BoneTileable01_Norm.uasset" 409
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Whale01A_BC.uasset" 410
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Whale01A_Emissive.uasset" 411
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Whale01A_HRM.uasset" 412
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Whale01A_Norm.uasset" 413
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/M_Whale01.uasset" 414
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/MI_Whale01.uasset" 415
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_Bridge01.uasset" 416
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_AshesTileable03_Emissive.uasset" 417
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_CaveCliff01_BC.uasset" 418
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_CaveCliff01_HRM.uasset" 419
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_CaveCliff01_Norm.uasset" 420
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Cliff06_Emissive_Mask.uasset" 421
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Cliff06_Mask.uasset" 422
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Cliff06_Norm.uasset" 423
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_RockMica01_BC.uasset" 424
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_RockMica01_HRM.uasset" 425
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_RockMica01_Norm.uasset" 426
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/M_Cliff06_Var2.uasset" 427
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/MI_Cliff06_Var2.uasset" 428
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_Cliff06.uasset" 429
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_LavaFall01.uasset" 430
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Monster03A_BC.uasset" 431
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Monster03A_HRM.uasset" 432
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Monster03A_Norm.uasset" 433
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Monster03B_BC.uasset" 434
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Monster03B_Emissive.uasset" 435
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Monster03B_HRM.uasset" 436
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Monster03B_Norm.uasset" 437
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/M_Monster03.uasset" 438
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/MI_Monster03.uasset" 439
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Nail01_BC.uasset" 440
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Nail01_HRM.uasset" 441
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Nail01_Norm.uasset" 442
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/M_Nail01.uasset" 443
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/MI_Nail01.uasset" 444
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_Monster03_Spike.uasset" 445
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_Monster04.uasset" 446
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Pile_Sculls01_BC.uasset" 447
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Pile_Sculls01_Emissive.uasset" 448
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Pile_Sculls01_HRM.uasset" 449
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Pile_Sculls01_Norm.uasset" 450
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/M_Pile_Sculls01.uasset" 451
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/MI_Pile_Sculls01.uasset" 452
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_Pile_Skulls01.uasset" 453
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_Ruins_03_Block_400x150_01.uasset" 454
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_Ruins_03_Block_400x150_01_Broken_01.uasset" 455
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_Ruins_03_Block_400x150_01_Broken_02.uasset" 456
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_Ruins_03_Block_400x150_02_Vertical.uasset" 457
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_Ruins_03_Block_400x150_02_Vertical_Broken.uasset" 458
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_Ruins_03_Block_Upper.uasset" 459
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_Ruins_03_Block_Upper_Corner01.uasset" 460
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_Ruins_03_FloorTile01.uasset" 461
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_Ruins_03_FloorTile02.uasset" 462
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_Ruins_03_FloorTile03.uasset" 463
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_Ruins_Circle_BorderSection01_Top01.uasset" 464
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_Ruins_Circle_Prefab01.uasset" 465
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_Ruins_Circle_Prefab02.uasset" 466
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_Ruins_Circle_Rubble03.uasset" 467
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_Ruins_Circle_Stairs01.uasset" 468
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_Ruins_Circle_Stairs02_Broken.uasset" 469
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_Ruins_ColumnBase_03.uasset" 470
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_Ruins_ColumnPiece_01.uasset" 471
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_Ruins_ColumnPiece_02.uasset" 472
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_Ruins_Prefab02.uasset" 473
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Statue01_Var1_BC.uasset" 474
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Statue01_Var1_HRM.uasset" 475
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Statue01_Var1_Norm.uasset" 476
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/M_Statue01_Var1.uasset" 477
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/MI_Statue01_Var1.uasset" 478
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_Statue02.uasset" 479
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Statue03A_BC.uasset" 480
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Statue03A_HRM.uasset" 481
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Statue03A_Norm.uasset" 482
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/M_Statue03_Var1.uasset" 483
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/MI_Statue03_Var1.uasset" 484
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_Statue03.uasset" 485
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SimpleGrassWind.uasset" 486
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_TreeHell01_BC.uasset" 487
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_TreeHell01_Emissive.uasset" 488
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_TreeHell01_HRM.uasset" 489
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_TreeHell01_Norm.uasset" 490
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_TreeHell01_WindMask.uasset" 491
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/M_TreeHell01.uasset" 492
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/MI_TreeHell01.uasset" 493
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_TreeHell02.uasset" 494
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_TreeMapleDead.uasset" 495
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Clouds04.uasset" 496
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Water002_N.uasset" 497
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Water03_N.uasset" 498
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/M_Lava01.uasset" 499
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/MI_Lava01.uasset" 500
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_WaterIcePlane01.uasset" 501
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Worm02_BC.uasset" 502
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Worm02_Emissive.uasset" 503
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Worm02_HRM.uasset" 504
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Textures/T_Worm02_Norm.uasset" 505
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/M_Worm02.uasset" 506
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/MI_Worm02.uasset" 507
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Materials/MI_Worm03.uasset" 508
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Hell/Meshes/SM_Worms_Cluster.uasset" 509
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Maps/Level_Main.umap" 510
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Maps/MapsTestBP_BuiltData.uasset" 511
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Maps/MapsTestBP.umap" 512
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Maps/MainMenu/NewWorld.umap" 513
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Cinematics/Maps/Level_Cinimatics_BuiltData.uasset" 514
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 515
+"../../../../../../Users/Yaroslav/OneDrive/Unreal/Unreal Projects/Project/JamProject05/Content/Cinematics/Maps/Level_Cinimatics.umap" 516
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 517
+"../../../Engine/Content/Maps/Entry.umap" 518
